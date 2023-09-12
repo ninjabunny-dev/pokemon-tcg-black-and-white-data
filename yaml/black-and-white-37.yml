@@ -1,0 +1,97 @@
+---
+id: bw1-37
+name: Swanna
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Water
+evolvesFrom: Ducklett
+attacks:
+- name: Feather Dance
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: During your next turn, each of this Pokémon's attacks does 40 more damage
+    (before applying Weakness and Resistance).
+- name: Aqua Ring
+  cost:
+  - Water
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '40'
+  text: Switch this Pokémon with 1 of your Benched Pokémon.
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: bw1
+  name: Black & White
+  series: Black & White
+  printedTotal: 114
+  total: 115
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BLW
+  releaseDate: 2011/04/25
+  updatedAt: 2018/11/29 19:56:00
+  images:
+    symbol: https://images.pokemontcg.io/bw1/symbol.png
+    logo: https://images.pokemontcg.io/bw1/logo.png
+number: '37'
+artist: Naoyo Kimura
+rarity: Rare
+flavorText: Swanna start to dance at dusk. The one dancing in the middle is the leader
+  of the flock.
+nationalPokedexNumbers:
+- 581
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw1/37.png
+  large: https://images.pokemontcg.io/bw1/37_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw1-37
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.15
+      mid: 0.49
+      high: 1.99
+      market: 0.56
+      directLow: 0.25
+    reverseHolofoil:
+      low: 0.56
+      mid: 1.0
+      high: 5.0
+      market: 1.31
+      directLow: 0.56
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw1-37
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.4
+    lowPrice: 0.02
+    trendPrice: 0.32
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.83
+    reverseHoloLow: 0.29
+    reverseHoloTrend: 1.05
+    lowPriceExPlus: 0.1
+    avg1: 1.0
+    avg7: 0.42
+    avg30: 0.33
+    reverseHoloAvg1: 0.75
+    reverseHoloAvg7: 1.17
+    reverseHoloAvg30: 0.9
